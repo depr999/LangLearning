@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-/// @brief It is necessary to write a program that displays a character depending on the entered ASCII number.
+/// @brief It is necessary to write a program that displays a character depending on the entered ASCII number. Page 116, number 2
 /// @param void just nothing
 /// @return void
 int main(void)
